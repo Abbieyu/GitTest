@@ -1,3 +1,6 @@
 git init //initializes the folder as a git repository
 git status // gets the status of the folder
 git add . // add all the files to the repository
+git commit -m "message"
+git log --oneline //shows a brief log of all the commits
+git log // a lot more detailed info about the logs
